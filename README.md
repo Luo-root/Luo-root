@@ -1,53 +1,71 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8420a,1:ff9552&height=180&section=header&text=LUO-ROOT&fontSize=42&fontColor=ece5da&desc=%E5%9C%A8%20Go%20%E9%87%8C%EF%BC%8C%E4%B8%BA%20Agent%20%E9%80%A0%E5%BC%95%E6%93%8E%E3%80%82&descSize=18&descAlignY=72&animation=fadeIn" width="100%" alt="LUO-ROOT banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0284c7&height=190&section=header&text=LUO-ROOT&fontSize=44&fontColor=f8fafc&desc=WORKFLOWS%20%2F%20BACKEND%20%2F%20AGENT%20INFRASTRUCTURE&descSize=16&descAlignY=72&animation=fadeIn" width="100%" alt="Luo-root — Workflows, Backend, Agent Infrastructure" />
 </div>
+
+<h3 align="center">用 Go，把复杂流程做成可靠系统。</h3>
 
 <div align="center">
-  <a href="https://jiangnanstudio.cloud">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1200&color=E8420A&center=true&vCenter=true&width=680&height=70&lines=%E5%9C%A8%20Go%20%E9%87%8C%EF%BC%8C%E4%B8%BA%20Agent%20%E9%80%A0%E5%BC%95%E6%93%8E%E3%80%82;Building%20agent%20engines%2C%20in%20Go.;%E7%9B%B8%E4%BF%A1%E7%AE%80%E6%B4%81%E7%9A%84%E6%8A%BD%E8%B1%A1%E5%92%8C%E5%8F%AF%E9%AA%8C%E8%AF%81%E7%9A%84%E5%B7%A5%E7%A8%8B%E3%80%82" alt="typing" />
-  </a>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=Luo-root&style=flat-square&color=e8420a&label=PROFILE+VIEWS" alt="profile views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1800&color=0284C7&center=true&vCenter=true&width=720&height=60&lines=Go+%C2%B7+Workflows+%C2%B7+Agent+Infrastructure;Readable+APIs.+Observable+execution." alt="Go · Workflows · Agent Infrastructure / Readable APIs. Observable execution." />
 </div>
 
-<br/>
-
-## 01 · 关于
-
-- 后端工程师，专注 **LLM Agent 基础设施** —— 流式引擎、可观测性、MCP 工具链、终端体验
-- 作者 of **[pulse](https://github.com/Luo-root/pulse)**：Go 生态的流式 Agent 引擎，`pulse-tui` 与 `PRism` 都构建在它之上 —— 一个引擎，长出一片生态
-- 做事方式偏向**仪器而不是烟花**：每个抽象都要有清晰的边界，每个功能都要能被测试、被复现
-- 写博客、造工具 → **[jiangnanstudio.cloud](https://jiangnanstudio.cloud)** · 联系 → **3029295957@qq.com**
+<p align="center">
+  <a href="https://jiangnanstudio.cloud">博客</a> ·
+  <a href="https://github.com/Luo-root?tab=repositories">开源项目</a> ·
+  <a href="https://luo-root.github.io/pulse/">Pulse 文档</a>
+</p>
 
 <br/>
 
-## 02 · 精选项目
+## 关于
 
-| PROJECT | WHAT |
-| --- | --- |
-| **[pulse](https://github.com/Luo-root/pulse)** ![GO](https://img.shields.io/badge/GO-1.26%2B-141210?style=flat-square&logo=go&logoColor=e8420a) ![MIT](https://img.shields.io/badge/LICENSE-MIT-141210?style=flat-square) | Go 生态的流式 LLM Agent 引擎：kernel 与 observability 双基座，流式生成、工具调用、事件追踪开箱即用 |
-| **[pulse-tui](https://github.com/Luo-root/pulse-tui)** ![GO](https://img.shields.io/badge/GO-TUI-141210?style=flat-square&logo=go&logoColor=e8420a) | 基于 Bubble Tea 的终端 AI 聊天界面：多厂商模型、MCP、长期记忆与智能规划 |
-| **[PRism](https://github.com/Luo-root/PRism)** ![GO](https://img.shields.io/badge/GO-PULSE-141210?style=flat-square&logo=go&logoColor=e8420a) | AI 驱动的 GitHub PR 审查助手：四级风险识别、SSE 流式审查、飞书通知 |
-| **[SENTINEL](https://github.com/Luo-root/kimi-code-multi-device)** ![GO](https://img.shields.io/badge/GO-FLUTTER-141210?style=flat-square&logo=go&logoColor=e8420a) | Kimi Code 的多端遥控器与哨兵：Go 中继 + Flutter 手机端，锁屏批准、Bark 门铃、断线快照对齐 |
-| **[JIANGNAN BLOG](https://github.com/Luo-root/jiangnan-blog-agent-workbase)** ![TS](https://img.shields.io/badge/TYPESCRIPT-LIVE-141210?style=flat-square&logo=typescript&logoColor=e8420a) | 个人博客与 Agent 工作台：内容与代码分离，VPS 全自动构建部署 |
-| **[K8S-CD](https://github.com/Luo-root/jiangnan-k8s-CD)** ![GO](https://img.shields.io/badge/GO-K8S-141210?style=flat-square&logo=go&logoColor=e8420a) | 基于 Kubernetes 的持续部署工具：apply / rollout / 回滚，一套接口搞定滚动升级 |
+我是 **Luo-root / 江南**，围绕 **Go、工作流与 Agent 基础设施** 构建开源软件。
 
-<br/>
+我关心流程如何组合、执行如何被观察、程序中断后如何继续，也关心开发者能否用清楚的 API 把这些能力用起来。现在的工作主要落在 **工作流执行与检查点恢复**，并持续探索它们在 Agent 系统中的应用。
 
-## 03 · 数据
+## 代表作品
+
+### [Pulse](https://github.com/Luo-root/pulse) · 数据驱动的工作流执行库
+
+把一组 Go 函数组合成可复用的工作流：节点声明需要和产生的数据，执行依赖由声明推导，输入到达后开始工作。
+
+支持并行、分支与汇聚、子图组合、流式处理和执行观测。流程定义与单次执行分离，核心包仅依赖 Go 标准库，可以嵌入已有服务、命令行程序或 Agent 应用。
+
+[源码](https://github.com/Luo-root/pulse) · [文档](https://luo-root.github.io/pulse/)
+
+### [Pulse Durable](https://github.com/Luo-root/pulse-durable) · 检查点存储与恢复
+
+为 Pulse 工作流提供检查点存储与恢复，让流程在中断后继续：复用已确认的节点成果，重新执行未确认的步骤。
+
+项目当前处于开发阶段。
+
+[源码](https://github.com/Luo-root/pulse-durable) · [文档](https://luo-root.github.io/pulse-durable/)
+
+## 工程取向
+
+- **API 要让人少写错。** 从真实使用场景出发，减少重复声明与隐式约定。
+- **运行过程要看得清。** 让等待、执行、失败与取消都有明确的状态和原因。
+- **承诺要有证据。** 用可复现的用例说明行为，用清晰的边界说明能力。
+
+## 常用技术
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,ts,github,docker,kubernetes&theme=dark" alt="Go, TypeScript, GitHub, Docker, Kubernetes" />
+</p>
+
+## 开源足迹
 
 <table>
   <tr>
     <td width="50%">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Luo-root&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=12100d&title_color=ff5f2e&icon_color=ff5f2e&text_color=ece5da" />
-        <img src="https://github-readme-stats.vercel.app/api?username=Luo-root&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=faf8f5&title_color=e8420a&icon_color=e8420a&text_color=17130e" width="100%" alt="GitHub stats" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Luo-root&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0f172a&title_color=38bdf8&icon_color=22d3ee&text_color=cbd5e1" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Luo-root&show_icons=true&hide_border=true&include_all_commits=true&bg_color=f8fafc&title_color=0369a1&icon_color=0891b2&text_color=0f172a" width="100%" alt="GitHub statistics for Luo-root" />
       </picture>
     </td>
     <td width="50%">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Luo-root&hide_border=true&background=12100d&stroke=2a251d&ring=ff5f2e&fire=ff5f2e&currStreakLabel=ff5f2e&currStreakNum=ece5da&sideLabels=a59d90&dates=6f6759" />
-        <img src="https://streak-stats.demolab.com?user=Luo-root&hide_border=true&background=faf8f5&stroke=e5ddd1&ring=e8420a&fire=e8420a&currStreakLabel=e8420a&currStreakNum=17130e&sideLabels=8d867b&dates=8d867b" width="100%" alt="GitHub streak" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Luo-root&hide_border=true&background=0f172a&stroke=1e293b&ring=38bdf8&fire=22d3ee&currStreakLabel=38bdf8&currStreakNum=f1f5f9&sideLabels=cbd5e1&dates=94a3b8" />
+        <img src="https://streak-stats.demolab.com?user=Luo-root&hide_border=true&background=f8fafc&stroke=e2e8f0&ring=0284c7&fire=0891b2&currStreakLabel=0369a1&currStreakNum=0f172a&sideLabels=475569&dates=64748b" width="100%" alt="GitHub contribution streak for Luo-root" />
       </picture>
     </td>
   </tr>
@@ -56,15 +74,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,ts,dart,git,github,docker,kubernetes,md&theme=dark" alt="stack" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://jiangnanstudio.cloud"><img src="https://img.shields.io/badge/BLOG-jiangnanstudio.cloud-141210?style=flat-square&logo=safari&logoColor=e8420a" alt="blog" /></a>
-  <a href="mailto:3029295957@qq.com"><img src="https://img.shields.io/badge/MAIL-3029295957%40qq.com-141210?style=flat-square&logo=gmail&logoColor=e8420a" alt="mail" /></a>
-  <a href="https://luo-root.github.io/pulse/"><img src="https://img.shields.io/badge/PULSE-DOCUMENTATION-141210?style=flat-square&logo=go&logoColor=e8420a" alt="pulse docs" /></a>
+  <a href="https://jiangnanstudio.cloud"><img src="https://img.shields.io/badge/BLOG-jiangnanstudio.cloud-0f172a?style=flat-square&logo=safari&logoColor=38bdf8" alt="personal blog" /></a>
+  <a href="https://github.com/Luo-root"><img src="https://img.shields.io/badge/GITHUB-Luo--root-0f172a?style=flat-square&logo=github&logoColor=38bdf8" alt="Luo-root on GitHub" /></a>
+  <a href="https://luo-root.github.io/pulse/"><img src="https://img.shields.io/badge/PULSE-DOCUMENTATION-0f172a?style=flat-square&logo=go&logoColor=38bdf8" alt="Pulse documentation" /></a>
 </div>
 
 <br/>
